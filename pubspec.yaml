@@ -1,7 +1,8 @@
 name: baydin
 description: A new Flutter project.
 version: 0.0.1
-homepage:
+homepage: https://mmsoftware100.com
+repository: https://github.com/aungkoman/flutter-baydin-package
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
